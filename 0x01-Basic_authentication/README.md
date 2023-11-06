@@ -1,11 +1,6 @@
 
 # Authentication and Base64 Encoding
 
-<div align="center">
-  <img src="https://images.app.goo.gl/ZFffCSnV9h5dtQRUA"BASIC AUTHENTICATION">
-</div>
-
-
 Welcome to the official documentation for Authentication and Base64 Encoding! 🚀
 
 This README provides a user-friendly guide to understanding authentication, Base64 encoding, Basic Authentication, and how to send the Authorization header using Python.
