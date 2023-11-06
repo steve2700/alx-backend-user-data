@@ -2,7 +2,7 @@
 # Authentication and Base64 Encoding
 
 <div align="center">
-  <img src="https://www.google.com/search?q=authentication&sca_esv=579734912&rlz=1C1PNQB_enZA1042ZA1042&tbm=isch&sxsrf=AM9HkKk8-j_1ZMaLnkr9q2dD6-Wtbm3_sA:1699261376049&source=lnms&sa=X&ved=2ahUKEwjPqcz1ga-CAxUHBcAKHavnCm0Q_AUoAXoECAMQAw&biw=1366&bih=651&dpr=1#imgrc=41ifdBqvQWwm7M" alt="Your Project Logo">
+  <img src="https://images.app.goo.gl/ZFffCSnV9h5dtQRUA"BASIC AUTHENTICATION">
 </div>
 
 
