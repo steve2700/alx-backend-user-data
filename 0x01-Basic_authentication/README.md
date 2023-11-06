@@ -1,7 +1,10 @@
 
 # Authentication and Base64 Encoding
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/ftejV4ar8MU928DnJi/video" width="480"></iframe></div>
+<div align="center">
+  <img src="https://www.google.com/search?q=authentication&sca_esv=579734912&rlz=1C1PNQB_enZA1042ZA1042&tbm=isch&sxsrf=AM9HkKk8-j_1ZMaLnkr9q2dD6-Wtbm3_sA:1699261376049&source=lnms&sa=X&ved=2ahUKEwjPqcz1ga-CAxUHBcAKHavnCm0Q_AUoAXoECAMQAw&biw=1366&bih=651&dpr=1#imgrc=41ifdBqvQWwm7M" alt="Your Project Logo">
+</div>
+
 
 Welcome to the official documentation for Authentication and Base64 Encoding! 🚀
 
